@@ -1,0 +1,45 @@
+body {
+    background-color: white;
+    font-family: Garamond, italic,bold;
+    font-size: 12px;
+    padding: 1px;
+}
+
+
+h2 {
+    color: green;
+    font-size: 16px;
+    font: Garamond, bold;
+}
+
+h3 {
+    color: purple;
+    font-size: 14px;
+    font: Garamond, bold;
+}
+
+
+
+ul {
+    list-style-type:none;
+}
+
+ul li {
+    font-size: 12px;
+    font: Helvetica, bold;
+    color: black;
+}
+
+
+p {
+    font-size: 12px;
+    font: Helvetica, bold;
+    color: black;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>CSCIE 18 - Assignment 2</description>
+    <author/>
+    <website/>
+    <status>alpha</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>cscie18-assignment2</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <deployed>2015-10-21T22:50:53.361-04:00</deployed>
+</meta>
